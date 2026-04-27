@@ -1,0 +1,17 @@
+# Node / React
+node_modules/
+build/
+dist/
+
+# Android (React Native)
+android/
+*.aab
+*.apk
+
+# Large binaries
+*.zip
+*.exe
+
+# Misc
+.env
+.DS_Store
